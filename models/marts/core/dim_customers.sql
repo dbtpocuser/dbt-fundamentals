@@ -18,8 +18,8 @@ final as (
     select
         customers.customer_id,
         customers.first_name,
-        customers.first_name as first_name2,
-        customers.first_name as first_name3,
+        customers.first_name as first_name22,
+        customers.first_name as first_name333,
         customers.last_name,
         customer_orders.first_order_date,
         customer_orders.most_recent_order_date,
